@@ -1,0 +1,2 @@
+//Package naivebayes
+package naivebayes

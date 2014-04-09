@@ -1,4 +1,4 @@
-models
+Models
 ======
 
 A set of powerful and easy to use tools for data analysis.

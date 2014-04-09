@@ -25,3 +25,5 @@ Online documentation is available on [GoDoc](http://godoc.org/github.com/logbase
 
 For more information visit https://github.com/models/naivebayes or send an e-mail
 to contact@logbase3.com
+
+[![GoDoc](https://godoc.org/github.com/logbase3/models/naivebayes?status.png)](https://godoc.org/github.com/logbase3/models/naivebayes)

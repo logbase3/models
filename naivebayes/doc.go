@@ -15,7 +15,7 @@
 	You should have received a copy of the GNU Lesser General Public License
 	along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-	For more information visit https://github.com/logbase3/models
+	For more information visit https://github.com/logbase3/models/naivebayes
 	or send an e-mail to contact@logbase3.com
 */
 

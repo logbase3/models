@@ -1,6 +1,6 @@
 /*
-	filequery is a small and simple tool for querying files using SQL.
-	Copyright (C) 2013 log₃() <contact@logbase3.com>
+	naivebayes is a simple probabilistic classifier.
+	Copyright (C) 2014 log₃() <contact@logbase3.com>
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU Lesser General Public License as published by
@@ -15,7 +15,7 @@
 	You should have received a copy of the GNU Lesser General Public License
 	along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-	For more information visit https://github.com/logbase3/fuery
+	For more information visit https://github.com/logbase3/models
 	or send an e-mail to contact@logbase3.com
 */
 

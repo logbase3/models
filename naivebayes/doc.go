@@ -21,7 +21,6 @@
 
 /*Package naivebayes implements a simple probabilistic classifier known as Naive Bayes.
 
-This classifier is based on the Bayes Theorem and it's call Naive since it makes strong
-independent assumptions.
+This classifier is based on the Bayes Theorem and it's call naive because it makes strong independent assumptions.
 */
 package naivebayes
